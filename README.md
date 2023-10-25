@@ -23,6 +23,7 @@ Simple gesture recognition on Windows & Linux
 
 参数目前基于测试摄像头，后期购买完摄像头后进行二次调参
 
+<!--
 ### 2022.10.22
 
 根据学生创新中心通知，开题项目改为报告结课，并不需要实物
@@ -44,4 +45,5 @@ Simple gesture recognition on Windows & Linux
 只是具体的调控应该是不会进行了，毕竟报告不需要实物
 
 这下真的咕咕了... -->
+-->
 
